@@ -52,6 +52,6 @@ Whilst the upfront cost is high (reaching millions for a single dose), this cost
 of a lifetime of full-time care and hospital visits. 
 
 ### AFTERNOON SESSION 2: Is Obesity a choice?
-### AFTERNOON SESSION 3: Onno Faber - Entrepeneur in rare diseases 
+### AFTERNOON SESSION 3: Onno Faber - Entrepreneur in rare diseases 
 
 
