@@ -2,7 +2,7 @@
 title: Nat chats science
 ---
 
-This blog casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy. [Explore all posts by clicking right here](https://natsblog.github.io/library).
+This blog casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy. Explore all posts by clicking [right here](https://natsblog.github.io/library).
 
 ## Biography 
 
@@ -13,4 +13,4 @@ She believes in the vision for integrated, personalised and preventative medicin
 
 Nat is an advocate for involvement of patients as key stakeholders from the start, particularly in genomic data sharing and clinical trial design. 
 
-Feel free to visit [education](https://natsblog.github.io/cv) for Nat's full curriculum vitae.
+Feel free to click [here](https://natsblog.github.io/cv) for Nat's full curriculum vitae.
