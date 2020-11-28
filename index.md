@@ -1,6 +1,6 @@
 # Nat's Blog
 
-Nat's blog casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy.
+This website casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy.
 
 ## Biography 
 
