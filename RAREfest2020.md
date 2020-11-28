@@ -2,7 +2,7 @@
 title: Rare diseases are at the forefront of cutting-edge science
 ---
 
-## RAREfest 2020 organised by Cambridge Rare Disease Network.
+## RAREfest 2020 organised by Cambridge Rare Disease Network
 
 ### MORNING SESSION: AI and Rare Diseases
 
@@ -28,7 +28,7 @@ Maria Picone from TREND Community works closely with patient groups. She uses so
 in patient support groups to pick up areas of discussion, concern and unmet need within rare disease communities. Even more than that, Maria uses Natural Language 
 Processing and Machine Learning to analyse data from patient groups and generate insight reports that can be presented to stakeholders in rare diseases.
 
-AFTERNOON SESSION: Gene Therapies
+### AFTERNOON SESSION: Gene Therapies
 
 The afternoon panel consisted of Professor Bobby Gaspar of Orchard Therapeutics, Georgina Morton of Archangel MLD Trust and Professor Tim Cox from the University 
 of Cambridge discussing gene therapies in rare diseases. 
