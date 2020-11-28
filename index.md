@@ -1,4 +1,4 @@
-This blog casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy.
+This blog casually chats about the latest topics covered in conferences at the intersection of genomic medicine, artificial intelligence and data privacy. [Explore all posts by clicking right here](https://natsblog.github.io/library).
 
 ## Biography 
 
