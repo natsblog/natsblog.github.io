@@ -1,4 +1,6 @@
-## Curriculum Vitae 
+---
+title: Nat's CV
+---
 
 ### Degrees achieved 
 
