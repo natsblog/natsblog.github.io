@@ -39,3 +39,6 @@ Institution | Topic
 Wellcome Trust Genome Campus / Sanger Institute | Genomic Medicine 
 Cambridge Institute for Medical Research (CIMR) | Neurodegeneration 
 UCL Institute of Neurology (IoN) | Multiple Sclerosis
+
+
+Other pages: [Biography](https://natsblog.github.io) / [Posts](https://natsblog.github.io/library)
