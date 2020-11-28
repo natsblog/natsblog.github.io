@@ -1,11 +1,10 @@
-
 ---
-title: Rare diseases are at the forefront of cutting-edge science:
+title: Rare diseases are at the forefront of cutting-edge science
 ---
 
-# RAREfest 2020 organised by Cambridge Rare Disease Network.
+## RAREfest 2020 organised by Cambridge Rare Disease Network.
 
-## MORNING SESSION: AI and Rare Diseases
+### MORNING SESSION: AI and Rare Diseases
 
 Let's start off first with the statistics: 7,000 rare diseases, 95% without treatment, 400m patients world-wide, 50% children. (Credit: Healx ppt.)
 
