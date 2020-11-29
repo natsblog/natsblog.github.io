@@ -87,11 +87,10 @@ session started off by playing out a scenario. On a Monday morning someone bring
 the person who notices and picks one up to eat, (2) the person who notices, holds back, but longs so hard for the cookie that they miss the content of the meeting,
 (3) the person that couldn't care less about cookies arriving and (4) the person who doesn't even realise they've already eaten a cookie or two. 
 
-Genetic variations in the fat sensing can explain differences in feeding behaviour. In extreme scenarios of childhood obesity, the signals 
-responsible for signalling to the brain that the body has fat and will not starve are not functioning properly. These obese children are driven by a biology (lack
-of leptin) that believes they are in extreme starvation mode, leading to attempts to eat almost anything including frozen food. An extremely awful reality in this
-is that these children are sometimes taken away from their families by social services citing abuse, when modern science shows that these eating behaviours are a
-powerful biological disease.
+Genetic variations are responsible for 75% of bodyweight. In extreme scenarios of childhood obesity, the fat sensing pathways responsible for signalling to the 
+brain that the body has fat and will not starve are not functioning properly. These obese children are driven by a biology (lack of leptin) that believes they are
+in extreme starvation mode, leading to attempts to eat almost anything including frozen food. An extremely awful reality is that these children are sometimes taken
+away from their families by social services citing abuse, when modern science shows that these eating behaviours are a powerful biological disease.
 
 How does this feed into the general population? Twin studies have revealed that the same pathways that drive pathological eating behaviour in the extremes of
 disease, also contain subtle variations in the general population. Each instance of eating is indeed a binary decision of yes/no, however genetic factors can make
