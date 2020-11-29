@@ -97,5 +97,6 @@ disease, also contain subtle variations in the general population. Each instance
 individuals slightly more likely to say yes. This is more important than it initially seems since weight is not put on overnight and life contains thousands of 
 feeding decisions over a lifetime. Over thousands of eating decisions, a 5% increased likelihood of saying yes can be the cause of obesity. 
 
-This is not unique to humans, with research from Cambridge showing that variation in similar pathways can explain why Labradors are a particularly food-motivated
-breed!
+The phenomenon is not unique to humans, with research from Cambridge showing that variation in similar pathways can explain why Labradors are a particularly 
+food-motivated breed!
+
