@@ -4,15 +4,15 @@ title: Rare diseases are at the forefront of cutting-edge science
 
 ## RAREfest 2020 organised by Cambridge Rare Disease Network
 
-Anyone can be affected by a rare disease. In fact, the award-winning campaign by [Takeda](https://iamnumber17.geneticalliance.org.uk) illustrated that 1 in 17 people are affected. Whilst rare diseases are
-rare - they are (collectively) not uncommon and they can be caused by completely unpredicted new changes in the DNA.
-Let's chat AI, gene therapies, the story of impressive entrepreneur Onno Faber and the little-known genetics of bodyweight. 
+**Anyone can be affected by a rare disease.** In fact, the award-winning campaign by [Takeda](https://iamnumber17.geneticalliance.org.uk) illustrated that 1 in 17 people are. Whilst rare diseases are
+indeed rare, they are (collectively) not uncommon and they can be caused by an unexpected change in the DNA.
+I'll chat AI, gene therapies, the story of impressive entrepreneur Onno Faber and the little-known genetics of bodyweight. 
 
 ### MORNING SESSION: AI and Rare Diseases
 
 Let's start off first with the statistics: 7,000 rare diseases, 95% without treatment, 400m patients world-wide, 50% children (Credit: Healx ppt.). 
 
-The morning panel composed of Simone Manso from Healx, Rudy Benfredj from Mendelian and Maria Picone from TREND Community discussed powering up Rare Diseases
+The morning panel composed of Simone Manso from [Healx](https://healx.io), Rudy Benfredj from [Mendelian](https://www.mendelian.co) and Maria Picone from [TREND Community](https://trend.community) discussed powering up Rare Diseases
 with Artificial Intelligence. A take-home message was that human and artificial intelligence can work hand-in-hand to diagnose early and at-scale. 
 
 Rare diseases are notorious for their 'diagnostic odyssey', meaning many years (sometimes decades) until patients receive an accurate diagnosis. The emotional toll 
@@ -33,11 +33,11 @@ Processing and Machine Learning to analyse data from patient groups and generate
 
 ### AFTERNOON SESSION: Gene Therapies
 
-The afternoon panel consisted of Professor Bobby Gaspar of Orchard Therapeutics, Georgina Morton of Archangel MLD Trust and Professor Tim Cox from the University 
+The afternoon panel consisted of Professor Bobby Gaspar of [Orchard Therapeutics](https://www.orchard-tx.com/), Georgina Morton of [Archangel MLD Trust](https://www.archangel.org.uk) and Professor Tim Cox from the University 
 of Cambridge discussing gene therapies in rare diseases. 
 
 Each rare disease is different but many are monogenic (caused by a single gene) which makes them candidates for gene therapy. Gene therapy is a potentially 
-curative change to a disease gene, oftentimes in a single dose. This can come at a high cost and the panel explored why this can really be justified. 
+curative change to a disease gene, sometimes in a single dose. This can come at a high cost and the panel explored why this can really be justified. 
 
 The session began with former TV presenter Georgina Morton describing the diagnostic journey she experienced with her daughter who has metachromatic leukodystrophy 
 (MLD). The prognosis for Georgina's daughter was poor, with many children with this disease suffering fast deterioration of their motor functions and nervous
@@ -51,8 +51,8 @@ immune system. In the case of MLD it is used to halt disease progression and pre
 All panel members moderated by Professor Tim Cox agreed that early diagnosis accompanied by gene therapy promises the best outlook for rare disease patients. There
 was emphasis on the need to develop newborn screening in the UK, with other European countries and the USA being far ahead of the game compared to Britain in terms
 of screening for a wider breadth of diseases. Another point that the panel agreed on was the need for a different model of economic evaluation of gene therapies. 
-Whilst the upfront cost is high (reaching millions for a single dose), this cost and benefit to patient lives is dwarfed by the comparative financial and human cost
-of a lifetime of full-time care and hospital visits. 
+Whilst the upfront cost is high (reaching millions for a single dose), it is dwarfed by the comparative financial and human cost of a lifetime of full-time care
+and hospital visits. 
 
 ### AFTERNOON SESSION: Onno Faber - Entrepreneur in rare diseases, moderated by Dr Jason Mellad 
 
@@ -62,19 +62,19 @@ diagnosis of tumours on the brain and spinal cord.
 
 A computer coder from a young age, Onno made it to silicon valley, starting up several companies. When the diagnosis arrived into his life, he had his tumour 
 sequenced and stored the genomic data on his hard-drive. In true problem-solving fashion, Onno acted on the talent surrounding him and gathered 400 people
-to 'hack' his DNA to generate insights about the tumour sequence. The process led to the idea that a drug marketed for breast cancer might work on Onno's condition.
-On top of that, it highlighted how difficult patient data was to access and share. Cue the creation of two new companies: AllStripes and Rarebase. 
+to 'hack' his DNA to generate insights about the tumour sequence. The process led to the idea that a drug marketed for breast cancer might work on Onno's 
+condition. On top of that, it highlighted how difficult patient data was to access and share. Cue the creation of two new companies: [AllStripes](https://www.allstripes.com) and [Rarebase](https://www.rarebase.org). 
 
 In recognition of the fact that more genomic data drives research, Onno created AllStripes to facilitate clinical data sharing, with the patient in the driving 
 seat. Rarebase, on the other hand, looks at identifying opportunities for repurposing drugs that are currently on the market. The best chance for rare disease 
-patients is if they can pick up a drug that is already authorised and for it to work on their disease. Generation of new drugs takes time and is not always
-commercially attractive for pharmaceutical companies. Rarebase does also look at collaboration with patient groups and foundations to generate funding from these 
+patients is to pick up a drug that is already market authorised and for it to work on their disease. Generation of new drugs takes time and is not always
+commercially feasible for pharmaceutical companies. Rarebase does also look at collaboration with patient groups and foundations to generate funding from these 
 sources as a gateway into new personalised therapies. Both Onno and Jason agreed that repurposing of drugs already on the market is a different funding model that
 needs to be looked at for rare diseases, with Jason highlighting that looking for a high benefit-low toxicity drug profile may be a journey of trial and error. 
 
 Jason chipped in to add to the notion that rare diseases can sneak up on anyone - whilst he is not a rare disease sufferer, genomic sequencing during family 
 planning revealed that he was unexpectedly a carrier of autosomal recessive conidtions. The take-home message was that rare diseases can affect anyone but that 
-there is plenty of reasons for affected people to hope for a treatments, even if those are not immediately obvious. 
+there is reason for affected people to hope for treatments, even if those are not immediately obvious. 
 
 ### AFTERNOON SESSION: Is obesity a choice?
 
@@ -94,7 +94,7 @@ away from their families by social services citing abuse, when modern science sh
 
 How does this feed into the general population? Twin studies have revealed that the same pathways that drive pathological eating behaviour in the extremes of
 disease, also contain subtle variations in the general population. Each instance of eating is indeed a binary decision of yes/no, however genetic factors can make
-individuals slightly more likely to say yes. This is more important than it initially seems since weight is not put on overnight and life contains thousands of 
+individuals slightly more likely to say yes. This is more important than it initially seems, since weight is not put on overnight and life contains thousands of 
 feeding decisions over a lifetime. Over thousands of eating decisions, a 5% increased likelihood of saying yes can be the cause of obesity. 
 
 The phenomenon is not unique to humans, with research from Cambridge showing that variation in similar pathways can explain why Labradors are a particularly 
