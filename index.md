@@ -6,11 +6,9 @@ This blog casually chats about the latest topics covered in conferences at the i
 
 ## Biography 
 
-After graduating from a Master's in Genomic Medicine at the University of Cambridge, Nat started her research into data anonymization and data privacy in 
+After graduating from her master's at the University of Cambridge, Nat started her research into data anonymization and data privacy in 
 collaboration with the pharmaceutical industry. 
 
 She believes in using genomics, AI and data sharing to serve the vision of an integrated, personalised and preventative approach to medicine.
 
 Nat is an advocate for involvement of patients as key stakeholders from the start, particularly in genomic data sharing and clinical trial design. 
-
-Feel free to click [here](https://natsblog.github.io/cv) for Nat's full curriculum vitae.
